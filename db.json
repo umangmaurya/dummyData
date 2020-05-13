@@ -3,22 +3,22 @@
   {
     "email": "umang@gmail.com",
     "password":"123566",
-    "isAdmin": true,
+    "isAdmin": true
   },
    {
     "email": "indra@gmail.com",
     "password":"123566",
-    "isAdmin": false,
+    "isAdmin": false
   },
    {
     "email": "shubham@gmail.com",
     "password":"123566",
-    "isAdmin": false,
+    "isAdmin": false
   },
    {
     "email": "anab@gmail.com",
     "password":"123566",
-    "isAdmin": true,
-  },
+    "isAdmin": true
+  }
   ]
 }
