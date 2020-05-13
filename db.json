@@ -1,11 +1,25 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "email": "umang@gmail.com",
+      "password":"1234566",
+       "isAdmin":true
+    }, {
+      "id": 2,
+       "email": "indra@gmail.com",
+      "password":"1234566",
+       "isAdmin":true
+    }, {
+      "id": 3,
+      "email": "anab@gmail.com",
+      "password":"1234566",
+       "isAdmin":false
+    }, {
+      "id": 3,
+       "email": "shubham@gmail.com",
+      "password":"1234566",
+        "isAdmin":false
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
