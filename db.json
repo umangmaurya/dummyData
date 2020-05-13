@@ -2,22 +2,22 @@
   "users": [
   {
     "email": "umang@gmail.com",
-    "password:"123566",
+    "password":"123566",
     "isAdmin": true,
   },
    {
     "email": "indra@gmail.com",
-    "password:"123566",
+    "password":"123566",
     "isAdmin": false,
   },
    {
     "email": "shubham@gmail.com",
-    "password:"123566",
+    "password":"123566",
     "isAdmin": false,
   },
    {
     "email": "anab@gmail.com",
-    "password:"123566",
+    "password":"123566",
     "isAdmin": true,
   },
   ]
