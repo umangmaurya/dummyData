@@ -2,21 +2,25 @@
   "users": [
     {
       "id": 1,
+      "name":"Umang",
       "email": "umang@gmail.com",
       "password":"1234566",
        "isAdmin":true
     }, {
       "id": 2,
+       "name":"Indra",
        "email": "indra@gmail.com",
       "password":"1234566",
        "isAdmin":true
     }, {
       "id": 3,
+       "name":"Anab",
       "email": "anab@gmail.com",
       "password":"1234566",
        "isAdmin":false
     }, {
-      "id": 3,
+      "id": 4,
+       "name":"Shubam",
        "email": "shubham@gmail.com",
       "password":"1234566",
         "isAdmin":false
